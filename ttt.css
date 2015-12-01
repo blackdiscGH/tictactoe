@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+	color: green;
+}
+
+.square{
+    width:100px;
+    height:100px;
+    text-align: center;
+    font-size: 200%;
+    color: green;
+}
+
+table, th, td {
+   border: 2px solid green;
+}
+
+#TicTacToe_Header {
+	background-color: black;
+	height: 100px;
+	color: green;
+	font-size: 250%
+}
